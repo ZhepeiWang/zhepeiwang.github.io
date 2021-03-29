@@ -1,0 +1,10 @@
+@article{wang2020alternating,
+  title={Alternating Minimization Based Trajectory Generation for Quadrotor Aggressive Flight},
+  author={Wang, Zhepei and Zhou, Xin and Xu, Chao and Chu, Jian and Gao, Fei},
+  journal={IEEE Robotics and Automation Letters}
+  volume={5},
+  number={3},
+  pages={4836-4843},
+  year={2020},
+  publisher={IEEE}
+}
