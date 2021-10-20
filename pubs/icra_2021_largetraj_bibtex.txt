@@ -1,0 +1,9 @@
+@inproceedings{wang2021glst,
+    title={Generating Large-Scale Trajectories Efficiently using Double Descriptions of Polynomials},
+    author={Wang, Zhepei and Ye, Hongkai and Xu, Chao and Gao, Fei},
+    address={Xi'an, China},
+    booktitle={IEEE International Conference on Robotics and Automation},
+    pages={7436-7442},
+    year={2021},
+    organization={IEEE}
+}
