@@ -1,0 +1,10 @@
+@inproceedings{yang2021wholebody,
+    title={Whole-Body Real-Time Motion Planning for Multicopters},
+    author={Yang, Shaohui and He, Botao and Wang, Zhepei and Xu, Chao and Gao, Fei},
+    address={Xi'an, China},
+    booktitle={IEEE International Conference on Robotics and Automation},
+    pages={9197-9203},
+    year={2021},
+    organization={IEEE}
+}
+
