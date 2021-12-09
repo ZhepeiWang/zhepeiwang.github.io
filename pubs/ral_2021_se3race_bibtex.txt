@@ -1,5 +1,5 @@
 @article{han2021se3racing,
-  title={Fast-Racing: An Open-source Strong Baseline for {SE(3)} Planning in Autonomous Drone Racing},
+  title={{Fast-Racing}: An Open-source Strong Baseline for {SE(3)} Planning in Autonomous Drone Racing},
   author={Han, Zhichao and Wang, Zhepei and Pan, Neng and Lin, Yi and Xu, Chao and Gao, Fei},
   journal={IEEE Robotics and Automation Letters}
   volume={6},
