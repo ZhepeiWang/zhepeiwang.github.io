@@ -1,7 +1,7 @@
 @article{ye2020tgkplan,
   title={{TGK-Planner}: An Efficient Topology Guided Kinodynamic Planner for Autonomous Quadrotors},
   author={Ye, Hongkai and Zhou, Xin and Wang, Zhepei and Xu, Chao and Chu, Jian and Gao, Fei},
-  journal={IEEE Robotics and Automation Letters}
+  journal={IEEE Robotics and Automation Letters},
   volume={6},
   number={2},
   pages={494-501},
