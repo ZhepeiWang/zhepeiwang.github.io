@@ -1,5 +1,5 @@
 @inproceedings{ji2021mapless,
-    title={Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion},
+    title={{Mapless-Planner}: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion},
     author={Ji, Jialin and Wang, Zhepei and Wang, Yingjian and Xu, Chao and Gao, Fei},
     address={Xi'an, China},
     booktitle={IEEE International Conference on Robotics and Automation},
