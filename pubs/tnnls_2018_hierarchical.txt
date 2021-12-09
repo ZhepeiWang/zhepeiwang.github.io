@@ -1,7 +1,7 @@
 @article{zhu2018hierarchical,
   title={Hierarchical Decision and Control for Continuous Multitarget Problem: Policy Evaluation With Action Delay},
   author={Zhu, Jiangcheng and Zhu, Zhun and Wang, Zhepei and Guo, Shan and Xu, Chao},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   volume={30},
   number={2},
   pages={464-473},
