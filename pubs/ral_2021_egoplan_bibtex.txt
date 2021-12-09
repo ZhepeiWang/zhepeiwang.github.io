@@ -1,7 +1,7 @@
 @article{zhou2020egoplan,
   title={{EGO-Planner}: An {ESDF}-Free Gradient-Based Local Planner for Quadrotors},
   author={Zhou, Xin and Wang, Zhepei and Ye, Hongkai and Xu, Chao and Gao, Fei},
-  journal={IEEE Robotics and Automation Letters}
+  journal={IEEE Robotics and Automation Letters},
   volume={6},
   number={2},
   pages={478-485},
